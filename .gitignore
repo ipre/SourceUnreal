@@ -1,7 +1,9 @@
 /Binaries
 /DerivedDataCache
 /Intermediate
-/Saved/Autosaves
-/Saved/Backup
-/Saved/Logs
-/Saved/Screenshots
+Autosaves
+Backup
+Logs
+Screenshots
+StagedBuilds
+Cooked
